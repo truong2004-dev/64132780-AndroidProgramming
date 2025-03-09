@@ -5,3 +5,4 @@
 ![Image](https://github.com/user-attachments/assets/32d35931-6aaf-4e78-b7bf-c7cd614637df)
 #trang tính BMI
 ![Image](https://github.com/user-attachments/assets/fb1f84ca-5be6-4a3d-9fe4-599aff906cd7)
+![Image](https://github.com/user-attachments/assets/b4c55c44-a9b4-4bb5-b193-3d7a61866d56)
