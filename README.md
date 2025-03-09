@@ -6,3 +6,4 @@
 #trang tính BMI
 ![Image](https://github.com/user-attachments/assets/fb1f84ca-5be6-4a3d-9fe4-599aff906cd7)
 ![Image](https://github.com/user-attachments/assets/b4c55c44-a9b4-4bb5-b193-3d7a61866d56)
+![Image](https://github.com/user-attachments/assets/146cd437-b8f3-4804-80cf-fac7b3265988)
