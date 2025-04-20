@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Fragmentstatic2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#E51976D2</item>
+    </style>
+
+    <style name="Theme.Fragmentstatic2" parent="Base.Theme.Fragmentstatic2" />
+</resources>
